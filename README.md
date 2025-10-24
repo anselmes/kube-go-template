@@ -1,4 +1,4 @@
-# Readme
+# Kubernetes Go Controller Template
 
 ---
 

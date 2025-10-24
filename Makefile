@@ -1,4 +1,4 @@
-NAME := repository
+NAME := tmplctl
 VERSION := $(shell git describe --tags --always --dirty 2>/dev/null | sed 's/-\([0-9][0-9]*\)-g/+\1.g/')
 
 PREFIX ?= /usr/local/bin
