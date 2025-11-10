@@ -1,4 +1,4 @@
-module github.com/anselmes/kube-go-template
+module github.com/anselmes/ctl-go-template
 
 go 1.24.5
 
